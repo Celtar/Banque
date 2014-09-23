@@ -23,6 +23,7 @@ public class Banque {
 		this.nomBanque = unNom;
 	}
 
+	//Affiche les informations de la Banque
 	public String toString(){
 		String chain = null;
 		
