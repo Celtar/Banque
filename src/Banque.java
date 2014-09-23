@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-
+//Classe Banque
 public class Banque {
 
 	private String nomBanque;
